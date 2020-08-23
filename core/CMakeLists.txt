@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( Metrobot )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( Scale_Read  Scale_Read.cpp )
+target_link_libraries( Scale_Read ${OpenCV_LIBS} )

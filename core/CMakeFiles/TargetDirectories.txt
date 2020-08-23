@@ -1,0 +1,3 @@
+/home/kolyan/opencv/opencv/samples/cpp/tutorial_code/ImgTrans/CMakeFiles/rebuild_cache.dir
+/home/kolyan/opencv/opencv/samples/cpp/tutorial_code/ImgTrans/CMakeFiles/Scale_Read.dir
+/home/kolyan/opencv/opencv/samples/cpp/tutorial_code/ImgTrans/CMakeFiles/edit_cache.dir
